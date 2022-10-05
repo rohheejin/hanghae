@@ -2,7 +2,7 @@
 
 #### 항해 99 1주차 개인과제로 프로젝트를 진행하였습니다.
 
-<img width="1245" alt="스크린샷 2022-10-05 오후 9 10 34" src="https://user-images.githubusercontent.com/100185218/194058569-3c8dc4a9-491b-430b-957e-4e6ac8db8e9b.png">
+<img width="1217" alt="image" src="https://user-images.githubusercontent.com/100185218/194060126-dfcf7e34-715a-4f9b-a521-95c4d96be342.png">
 
 ### **✅ 구현 기능**
 
