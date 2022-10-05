@@ -1,0 +1,7 @@
+.layout {
+  max-width: 1200px;
+  height: 800px;
+
+  /*컨텐츠창 가운데정렬*/
+  margin: 0 auto;
+}

@@ -1,0 +1,45 @@
+.form {
+  background-color: rgba(0, 0, 0, 0.06);
+  height: 80px;
+  padding: 0 20px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.form > button {
+  background-color: rgb(0, 128, 128);
+  width: 100px;
+  height: 40px;
+
+  color: white;
+  font-weight: bold;
+
+  border: 0px;
+  border-radius: 11px;
+}
+
+.input_container {
+  width: 600px;
+  height: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.input_container > label {
+  display: flex;
+  align-items: center;
+  margin-left: 15px;
+  margin-right: 20px;
+  font-weight: bold;
+}
+.input_container > input {
+  width: 300px;
+  border-radius: 11px;
+  border: 0px;
+}
+.list-title {
+  display: block;
+  font-size: 1.5em;
+}
