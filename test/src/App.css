@@ -1,0 +1,19 @@
+.form-nav {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+.form-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+.list-container {
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+
+  border: 2px solid green;
+  border-radius: 10px;
+  text-align: center;
+}
