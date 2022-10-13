@@ -2,9 +2,9 @@
 
 ### 항해 99 2주차 개인과제로 프로젝트를 진행하였습니다.
 
-<img width="1166" alt="스크린샷 2022-10-13 오후 9 05 42" src="https://user-images.githubusercontent.com/100185218/195591999-1ff5b5d9-be15-4254-b563-a32a37aae5dd.png">
+<img width="921" alt="스크린샷 2022-10-13 오후 9 11 57" src="https://user-images.githubusercontent.com/100185218/195592908-69c92c8e-cd84-4617-9120-d484282ae57f.png">
 <br/>
-<img width="1154" alt="스크린샷 2022-10-13 오후 9 05 33" src="https://user-images.githubusercontent.com/100185218/195592010-f3840a2f-1ebf-455d-be3d-5bec6bdc6cbd.png">
+<img width="778" alt="스크린샷 2022-10-13 오후 9 11 43" src="https://user-images.githubusercontent.com/100185218/195592929-82047038-0e33-4601-8300-c2cc4dd9fcbe.png">
 
 ### **✅ 구현 기능**
 
