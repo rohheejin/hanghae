@@ -32,7 +32,7 @@ const Detail = () => {
             </StButton>
           </StDialogHeader>
           <StTitle>{todo.title}</StTitle>
-          <StBody>{todo.body}</StBody>
+          <StBody>{todo.content}</StBody>
         </div>
       </StDialog>
     </StContainer>
