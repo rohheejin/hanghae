@@ -13,9 +13,10 @@ const Detail = () => {
 
   useEffect(() => {
     dispatch(getTodoByID(id));
-  });
-  console.log(todo.id);
+  }, [dispatch, id]);
 
+  console.log(todo.id);
+  //history replace, push
   return (
     <StContainer>
       <StDialog>
@@ -25,7 +26,7 @@ const Detail = () => {
             <StButton
               borderColor='#ddd'
               onClick={() => {
-                navigate('/');
+                navigate(-1);
               }}
             >
               이전으로

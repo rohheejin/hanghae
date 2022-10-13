@@ -45,6 +45,12 @@ const initialState = {
       content: 'react 어렵다',
       isDone: false,
     },
+    {
+      id: '2',
+      title: 'react를 배워봅시다',
+      content: 'react 어렵다',
+      isDone: false,
+    },
   ],
   todo: [
     {
